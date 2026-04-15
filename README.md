@@ -1,7 +1,7 @@
 # ❤️ Heart Disease Risk Predictor
 
 An AI-powered web application that predicts heart disease risk based on lifestyle and medical history using a Random Forest model trained on CDC 2020 data.
-local host link --- http://localhost:8503/
+local host link --- https://healthpredictor9.streamlit.app/
 
 ## 📊 Overview
 
